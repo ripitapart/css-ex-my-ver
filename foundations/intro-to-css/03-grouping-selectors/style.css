@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.stand {
+    font-size: 28px;
+    font-family: "Times New Roman", sans-serif, Helvetica;
+
+}
+
+#first {
+    background-color: black;
+    color: white;
+}
+
+#second {
+    background-color: yellow;
+}
